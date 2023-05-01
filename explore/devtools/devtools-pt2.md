@@ -1,0 +1,1 @@
+It is buggy because it does string concatenation of num1 and num2 instead of calculating the sum of num1 and num2.
